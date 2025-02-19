@@ -2,9 +2,9 @@
 
 This SQL script performs analysis on country, city and language data. The main objectives were: 
 
-Population Density: Calculated the population density for each country and categorized countries as "Highly Dense," "Moderately Dense," or "Sparsely Populated."
+Population Density: Calculated the population density for each country and categorised countries as "Highly Dense," "Moderately Dense," or "Sparsely Populated."
 
-Urbanization: Analyzed urbanization by calculating the total city population in each country and categorized countries into "Highly Urbanized," "Moderately Urbanized," or "Rural."
+Urbanization: Analyzed urbanisation by calculating the total city population in each country and categorized countries into "Highly Urbanized," "Moderately Urbanized," or "Rural."
 
 Linguistic Distribution: Identified the most spoken language in each country.
 
